@@ -26,5 +26,4 @@ This project implements a credit card fraud detection system using a logistic re
    ```bash
    pip install -r requirements.txt
    ```
-3. Run the Jupyter Notebook or Python script to train and evaluate the fraud detection model.
 
