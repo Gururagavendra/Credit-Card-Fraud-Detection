@@ -18,8 +18,8 @@ This project implements a credit card fraud detection system using a logistic re
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/credit-card-fraud-detection.git
-   cd credit-card-fraud-detection
+   git clone https://github.com/Gururagavendra/Credit-Card-Fraud-Detection
+   ```
 
 2. Install the required dependencies:
 
